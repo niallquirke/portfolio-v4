@@ -21,7 +21,7 @@ const mobileMenuOpen = ref(false);
             What They Say About Niall
           </h1>
           <h2 class="text-gray-200 text-sm">
-            The Senior Full Stack Software Engineer
+            Senior Full Stack Software Engineer
           </h2>
         </div>
       </div>
