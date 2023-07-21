@@ -29,7 +29,7 @@ export const testimonials: Testimonial[] = [
     image: null,
     comment: "Niall is a top engineer, really got us going on the right foot!",
     details:
-      "Built core features for the Microsoft Teams product (during the pandemic!)",
+      "Built core features for the Microsoft Teams product during the pandemic enabling millions of front line workers to manage their shifts better, including scheduling shifts, swapping shifts and taking time off from their phones. Contributed to the design, infrastructure, build, test, pilot and release of the platform. My biggest achievement was owning the swapping shifts feature.",
   },
   {
     name: "Stephen",
@@ -39,7 +39,7 @@ export const testimonials: Testimonial[] = [
     image: "/img/stephen.jpeg",
     comment: "Niall is a top engineer, really got us going on the right foot!",
     details:
-      "Built core features for the Microsoft Teams product (during the pandemic!)",
+      "Designing large distributed cloud infrastructure systems for enterprise clients and developed our teams tooling. My biggest achievement was dreaming up, designing, building and owning a tool that completely replaced our teams CLI client with a much faster, simpler and more secure browser client. This is now used daily by 500+ operation engineers in 8 sites globally.",
   },
   {
     name: "Devin",
