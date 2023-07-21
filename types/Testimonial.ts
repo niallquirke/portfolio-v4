@@ -3,7 +3,7 @@ export type Testimonial = {
   linkedin: string;
   company: string;
   companyLink: string;
-  image: string;
+  image: string | null;
   comment: string;
   details: string;
 };

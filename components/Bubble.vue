@@ -14,13 +14,17 @@ defineProps({
   <div class="mt-8 flex px-3">
     <a :href="testimonial.linkedin" target="_blank" class="flex-none">
       <nuxt-img
+        v-if="testimonial.image"
         :src="testimonial.image"
         width=""
         sizes="sm:48"
-        class="rounded-full h-8 w-8 sm:h-12 sm:w-12 drop-shadow"
+        class="rounded-full h-8 w-8 sm:h-12 sm:w-12 drop-shadow" />
+      <IconProfile
+        v-else
+        class="h-8 w-8 sm:h-12 sm:w-12 drop-shadow text-blue-500"
     /></a>
     <div class="ml-2 bg-white rounded-md drop-shadow p-3">
-      <div class="flex justify-between mb-2">
+      <div class="flex justify-between mb-3">
         <span class="text-base text-[#06cf9c]">~ {{ testimonial.name }}</span
         ><a
           :href="testimonial.companyLink"
