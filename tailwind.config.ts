@@ -4,6 +4,9 @@ import defaultTheme from "tailwindcss/defaultTheme";
 module.exports = {
   theme: {
     extend: {
+      colors: {
+        primary: "#008069",
+      },
       fontFamily: {
         sans: ["Roboto", ...defaultTheme.fontFamily.sans],
       },
