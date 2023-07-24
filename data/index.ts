@@ -36,6 +36,17 @@ export const testimonials: Testimonial[] = [
       "Designing large distributed cloud infrastructure systems for enterprise clients and developed our teams tooling. My biggest achievement was dreaming up, designing, building and owning a tool that completely replaced our teams CLI client with a much faster, simpler and more secure browser client. This is now used daily by 500+ operation engineers in 8 sites globally.",
   },
   {
+    name: "Ellie",
+    title: "CEO",
+    linkedin: "https://www.linkedin.com/in/elliewalters/",
+    company: "RefunkUpcycling.com",
+    companyLink: "https://refunkupcycling.com",
+    image: "/img/ellie.jpeg",
+    comment: "Niall was our Head of Engineering for a year and was amazing!",
+    details:
+      "Head of Engineering at Refunk Upcycling for a year where I designed and built a furniture upcycling social e-commerce platform.",
+  },
+  {
     name: "Devin",
     title: "Freelance Client",
     linkedin: "https://www.linkedin.com/in/devinschumacher/",
@@ -56,18 +67,7 @@ export const testimonials: Testimonial[] = [
     comment:
       "Niall is extremely skillful at what he does, plus he has amazing communication skills.",
     details:
-      "Designed and built a custom analytics and business intelligence database and dashboard for a large Amazon retailor.",
-  },
-  {
-    name: "Ellie",
-    title: "CEO",
-    linkedin: "https://www.linkedin.com/in/elliewalters/",
-    company: "RefunkUpcycling.com",
-    companyLink: "https://refunkupcycling.com",
-    image: "/img/ellie.jpeg",
-    comment: "Niall was our Head of Engineering for a year and was amazing!",
-    details:
-      "Head of Engineering at Refunk Upcycling for a year where I designed and built a furniture upcycling social e-commerce platform.",
+      "Designed and built a custom business intelligence database and dashboard for a large Amazon retailor.",
   },
   {
     name: "James",
