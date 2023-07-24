@@ -67,7 +67,7 @@ export const testimonials: Testimonial[] = [
     image: "/img/ellie.jpeg",
     comment: "Niall was our Head of Engineering for a year and was amazing!",
     details:
-      "Was Head of Engineering at Refunk Upcycling for a year where I designed and built a furniture upcycling social e-commerce platform.",
+      "Head of Engineering at Refunk Upcycling for a year where I designed and built a furniture upcycling social e-commerce platform.",
   },
   {
     name: "James",
