@@ -33,7 +33,7 @@ export const testimonials: Testimonial[] = [
     image: "/img/stephen.jpg",
     comment: "Niall added a lot of value and innovation to our team at AWS.",
     details:
-      "Designing large distributed cloud infrastructure systems for enterprise clients and developed our teams tooling. My biggest achievement was dreaming up, designing, building and owning a tool that completely replaced our teams CLI client with a much faster, simpler and more secure browser client. This is now used daily by 200+ operation engineers in 8 sites globally.",
+      "Designing large distributed cloud infrastructure systems for enterprise clients and developed our teams tooling. My biggest achievement was dreaming up, designing, building and owning a tool that replaced our teams CLI client with a much faster, simpler and more secure browser client. This is now used daily by 200+ operation engineers in 8 sites globally.",
   },
   {
     name: "Ellie",
