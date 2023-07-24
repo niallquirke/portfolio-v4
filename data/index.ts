@@ -11,7 +11,7 @@ export const testimonials: Testimonial[] = [
     comment:
       "Niall really helped us figure out what we wanted and was able to design perfectly around our needs. Went straight back to him for a second project which we're working on now. 10/10.",
     details:
-      "Won a government agency tendor to design and build a sustainability education platform.",
+      "Won a government agency tender to design and build a sustainability education platform.",
   },
   {
     name: "Val",
