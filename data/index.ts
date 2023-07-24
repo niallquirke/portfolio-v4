@@ -76,7 +76,7 @@ export const testimonials: Testimonial[] = [
     company: "Coso.ai",
     companyLink: "https://coso.ai",
     image: "/img/james.jpeg",
-    comment: "Niall was super fast and reliable. Definitely could recommend!",
+    comment: "Niall was super fast and reliable. Definitely would recommend!",
     details: "Built AI marketing tools for a startup based in Ireland.",
   },
   {
