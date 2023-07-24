@@ -95,7 +95,7 @@ export const testimonials: Testimonial[] = [
     title: "Product User",
     linkedin:
       "https://chrome.google.com/webstore/detail/doubleclicker/kdfhgamfoobfingdhklhmjpbgflibeng",
-    company: "DoubleClicker Chrome App",
+    company: "DoubleClicker",
     companyLink: "https://esri.ie",
     image: "/img/john.jpeg",
     comment: "Niall, I love you. Why have I not found this until now? Thanks!",
