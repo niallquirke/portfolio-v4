@@ -11,7 +11,7 @@ import { testimonials } from "../data";
     "
   >
     <TheNavbar />
-    <div class="max-w-2xl mx-auto pb-10">
+    <div class="max-w-2xl mx-auto pb-16">
       <Bubble v-for="testimonial in testimonials" :testimonial="testimonial" />
     </div>
   </div>

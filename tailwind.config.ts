@@ -6,6 +6,7 @@ module.exports = {
     extend: {
       colors: {
         primary: "#008069",
+        secondary: "#06cf9c",
       },
       fontFamily: {
         sans: ["Roboto", ...defaultTheme.fontFamily.sans],
