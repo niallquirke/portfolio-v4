@@ -9,9 +9,8 @@ export const testimonials: Testimonial[] = [
     companyLink: "https://esri.ie",
     image: "/img/feidhlim.jpeg",
     comment:
-      "Niall really helped us figure out what we wanted and was able to design perfectly around our needs. Went straight back to him for a second project which we're working on now. 10/10.",
-    details:
-      "Won a government agency tender to design and build a sustainability education platform.",
+      "Niall really helped us figure out what we wanted and was able to design perfectly around our needs. Went back to him for a second project. 10/10.",
+    details: "Designed and built a sustainability education platform.",
   },
   {
     name: "Val",
