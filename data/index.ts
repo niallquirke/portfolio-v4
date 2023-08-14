@@ -41,7 +41,8 @@ export const testimonials: Testimonial[] = [
     company: "RefunkUpcycling.com",
     companyLink: "https://refunkupcycling.com",
     image: "/img/ellie.jpeg",
-    comment: "Niall was our Head of Engineering for a year and was amazing!",
+    comment:
+      "Niall helped us bring our offline business into an online platform and always brought a unique perspective to discussions!",
     details:
       "Head of Engineering at Refunk Upcycling for a year where I designed and built a furniture upcycling social e-commerce platform.",
   },
